@@ -47,21 +47,12 @@ This combo significantly improves the quality of candidate tokens for fast autom
 
 ---
 
-## ⚙️ Tech Stack (example)
+## ⚙️ Tech Stack
 - TypeScript  
 - `@solana/web3.js`  
 - rugcheck.xyz API (or scraping/integrations as applicable)  
 - Database (Postgres / Mongo / Redis) for indexing & history  
 - Logging & monitoring (Winston / Pino / Prometheus)
-
----
-
-## 📦 Next sections you may want to add
-- Installation  
-- Configuration (RPC endpoints, API keys, env vars)  
-- Usage / CLI examples  
-- Deployment & scaling notes  
-- Contribution / License
 
 ---
 Contact Discord : 0xelitedev 
